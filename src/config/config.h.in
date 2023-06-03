@@ -1,0 +1,2 @@
+#define Solver_VERSION_MAJOR @Solver_VERSION_MAJOR@
+#define Solver_VERSION_MINOR @Solver_VERSION_MINOR@
