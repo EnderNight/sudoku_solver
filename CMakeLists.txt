@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.26)
 
-project(Solver VERSION 1.0)
+project(Solver VERSION 0.1)
 
 if(NOT CMAKE_BUILD_TYPE)
   set(CMAKE_BUILD_TYPE Release)
