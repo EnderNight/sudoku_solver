@@ -7,7 +7,7 @@ Make sure that you have gcc installed on your machine as well as Magick++ and CM
 
 Then run:
 ```command
-mkdir build && pushd build && PARALLEL_LEVEL=4 cmake -GNinja .. && popd && make install
+mkdir build && pushd build && PARALLEL_LEVEL=4 cmake -GNinja .. && popd && ninja -C build && make install
 ```
 
 # Usage
