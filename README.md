@@ -21,3 +21,8 @@ Where sudoku_grid is the input grid in a text file and consec, king and knight a
 - Only basic error checking when reading the input grid file (no format error checking)
 - Hard-coded image generation
 - Really slow solving algorithm (recursive backtracking instead of iterative)
+
+# TODO
+
+This is written in C++ but it doesn't anything from it (I do not count strings and primitive stuff).
+- [ ] Use classes and C++ stuff
